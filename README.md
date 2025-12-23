@@ -1,6 +1,7 @@
 # Remove Comments Script
 
 PowerShell script untuk menghapus semua komentar dari file HTML, JavaScript, dan CSS dalam sebuah project.
+- buat yang abis pake eay 😂
 
 ## Deskripsi
 
